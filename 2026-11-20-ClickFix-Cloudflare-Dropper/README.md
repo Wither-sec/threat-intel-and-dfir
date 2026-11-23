@@ -52,4 +52,9 @@ What each part actually does:
 | **Payload 2** | `hxxp://85[.]234[.]100[.]172/990?w7JmMS` | Downloads `S001.ps1` |
 | **Host Network** | `AS29550` (`berkshire[.]noc102[.]com`) | Simply Transit / Team Blue Carrier Ltd (UK) |
 
----
+------
+
+## What I Did About It
+* **Found the host:** Looked up `85[.]234[.]100[.]172` to see who owned the server (`AS29550`).
+* **Reported it:** Sent the command, IP, and links to the hosting provider's abuse team (`abuse@as29550.net`) and browser blocklists so other people don't get hit by it.
+
